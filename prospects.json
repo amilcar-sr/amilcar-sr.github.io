@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "client": {
+            "id": "1",
+            "name": "Andres Triana",
+            "email": "atriana@truecar.com",
+            "phone": "12312312234"
+        },
+        "dealer": {
+            "id": "1",
+            "name": "Andrzej Soltan",
+            "email": "asoltan@truecar.com",
+            "phone": "3124552341"
+        },
+        "prospected": "4/20/2015 15:30",
+        "certificate": {
+            "vin": "DWA12348575048576",
+            "make": "Toyota",
+            "model": "Corolla",
+            "year": "2015",
+            "trim": {
+                "name": "HD",
+                "msrp": "59395",
+                "exteriorColors": [
+                    {
+                        "name": "Lynch",
+                        "hexCode": "#6C7A89",
+                        "rgbCode": "108, 122, 137"
+                    },
+                    {
+                        "name": "Green Haze",
+                        "hexCode": "#019875",
+                        "rgbCode": "1, 152, 117"
+                    }
+                ],
+                "interiorColors": [
+                    {
+                        "name": "Cape Honey",
+                        "hexCode": "#FDE3A7",
+                        "rgbCode": "253, 227, 167"
+                    },
+                    {
+                        "name": "Sandstorm",
+                        "hexCode": "#F9BF3B",
+                        "rgbCode": "249, 191, 59"
+                    }
+                ]
+            },
+            "image": "http://www.datency.com/wp-content/uploads/2014/12/2015-toyota-corolla-features.jpg",
+            "date": "4/20/2015 9:35"
+        }
+    },
+    {
+        "id": "2",
+        "client": {
+            "id": "2",
+            "name": "Amilcar Serrano",
+            "email": "aserrano@truecar.com",
+            "phone": "4231245412"
+        },
+        "prospected": "4/18/2015 10:10",
+        "certificate": {
+            "vin": "JAD12348575048576",
+            "make": "GMC",
+            "model": "Sierra",
+            "year": "2015",
+            "trim": {
+                "name": "Sport",
+                "msrp": "59395",
+                "exteriorColors": [
+                    {
+                        "name": "Green Haze",
+                        "hexCode": "#019875",
+                        "rgbCode": "1, 152, 117"
+                    }
+                ],
+                "interiorColors": [
+                    {
+                        "name": "Sandstorm",
+                        "hexCode": "#F9BF3B",
+                        "rgbCode": "249, 191, 59"
+                    }
+                ]
+            },
+            "image": "http://image.motortrend.com/f/roadtests/trucks/1309_2015_chevrolet_silverado_gmc_sierra_hd_first_look/59426328/2015-gmc-sierra-denali-3500hd-front-view.jpg",
+            "date": "4/18/2015 12:35"
+        }
+    }
+]
